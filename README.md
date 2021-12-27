@@ -1,1 +1,2 @@
-https://Dilyarakorzh.github.io/rsschool-cv/cv
+# rsschool-cv
+My CV
