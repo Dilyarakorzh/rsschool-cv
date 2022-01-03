@@ -68,21 +68,19 @@ nav {
 }
 
 .email {
-    background: url(../images/email.svg) no-repeat 0 50%;
+    background: url(./images/email.svg) no-repeat 0 50%;
 }
 
 .tg {
-    background: url(../images/telegram.svg) no-repeat 0 50%;
+    background: url(./images/telegram.svg) no-repeat 0 50%;
 }
 
 .git {
-    background: url(../images/github.svg) no-repeat 0 50%;
-    ;
+    background: url(./images/github.svg) no-repeat 0 50%;
 }
 
 .ds {
-    background: url(../images/discord.svg) no-repeat 0 50%;
-    ;
+    background: url(./images/discord.svg) no-repeat 0 50%;
 }
 
 .email,
